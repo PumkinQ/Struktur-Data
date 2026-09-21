@@ -38,7 +38,7 @@ int main()
         }
         m++;
         cout << endl;
-    }
+        }
     cout << "Nama: I Komang Arjuna Tudung Negara" << endl;
     cout << "Nim: 109082530014" << endl;
     return 0;
